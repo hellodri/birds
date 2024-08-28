@@ -1,0 +1,44 @@
+Actitis hypoleucos_Common Sandpiper
+Amaurornis phoenicurus_White-breasted Waterhen
+Egretta garzetta_Little Egret
+Myophonus insularis_Taiwan Whistling-Thrush
+Nycticorax nycticorax_Black-crowned Night Heron
+Alcedo atthis_Common Kingfisher
+Hypsipetes leucocephalus_Black Bulbul
+Pycnonotus sinensis_Light-vented Bulbul
+Treron sieboldii_White-bellied Green-Pigeon
+Psilopogon nuchalis_Taiwan Barbet
+Otus lettia_Collared Scops-Owl
+Lonchura punctulata_Scaly-breasted Munia
+Lonchura striata_White-rumped Munia
+Columba livia_Rock Pigeon
+Passer montanus_Eurasian Tree Sparrow
+Spilopelia chinensis_Spotted Dove
+Streptopelia orientalis_Oriental Turtle-Dove
+Apus nipalensis_House Swift
+Hirundo rustica_Barn Swallow
+Hirundo tahitica_Pacific Swallow
+Pernis ptilorhynchus_Oriental Honey-buzzard
+Prinia inornata_Plain Prinia
+Cyanoderma ruficeps_Rufous-capped Babbler
+Gracupica nigricollis_Black-collared Starling
+Centropus bengalensis_Lesser Coucal
+Copsychus saularis_Oriental Magpie-Robin
+Motacilla alba_White Wagtail
+Erythrogenys erythrocnemis_Black-necklacked Scimitar-Babbler
+Gorsachius melanolophus_Malayan Night Heron
+Dicrurus macrocercus_Black Drongo
+Hypothymis azurea_Black-naped Monarch
+Bubulcus coromandus_Eastern Cattle Egret
+Acridotheres javanicus_Javan Myna
+Bambusicola sonorivox_Taiwan Bamboo-Partridge
+Pica serica_Oriental Magpie
+Zosterops simplex_Swinhoe's White-eye
+Acridotheres tristis_Common Myna
+Cairina moschata_Muscovy Duck
+Dendrocitta formosae_Gray Treepie
+Gallinula chloropus_Eurasian Moorhen
+Rallina eurizonoides_Slaty-legged Crake
+Urocissa caerulea_Taiwan Blue Magpie
+Accipiter trivirgatus_Crested Goshawk
+Spilornis cheela_Crested Serpent-Eagle
